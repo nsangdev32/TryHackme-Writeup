@@ -1,0 +1,12 @@
+# Keep flag values and machine-specific artefacts out of the repo
+nmap/
+loot/
+*.hash
+*.local.md
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+*.swp
+.vscode/
+__pycache__/
