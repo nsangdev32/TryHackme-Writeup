@@ -8,10 +8,11 @@ flags, task answers, and what was learned.
 
 <!-- BEGIN ROOM TABLE -->
 
-**1 rooms** tracked - 1 complete, 0 in progress.
+**2 rooms** tracked - 1 complete, 1 in progress.
 
 | Room | Category | Difficulty | OS | Status | Completed |
 |---|---|---|---|---|---|
+| [UltraTech](writeups/web/ultratech.md) | web | Medium | Linux | wip | - |
 | [Blue](writeups/windows/blue.md) | windows | Easy | Windows | done | 2026-09-09 |
 
 <!-- END ROOM TABLE -->
