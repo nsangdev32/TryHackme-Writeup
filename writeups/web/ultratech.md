@@ -204,5 +204,6 @@ Both flags are read from the mounted host filesystem as root. Values kept local.
 ## 8. References
 
 - Docker group privesc: `notes/cheatsheets/docker-group-privesc.md` (GTFOBins: https://gtfobins.github.io/gtfobins/docker/)
-- Hashcat example hashes (MD5 = mode 0): https://hashcat.net/wiki/doku.php?id=example_hashes
+- Hash cracking: `notes/cheatsheets/hash-cracking.md` (hashcat wiki: https://hashcat.net/wiki/doku.php?id=example_hashes)
+- SQLite in web exploitation: `notes/cheatsheets/sqlite-web.md`
 - Command injection: `notes/cheatsheets/command-injection.md` (OWASP: https://owasp.org/www-community/attacks/Command_Injection)

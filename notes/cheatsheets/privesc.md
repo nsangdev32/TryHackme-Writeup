@@ -11,6 +11,7 @@ ss -tlnp                                       # internal services
 ```
 
 - Run `linpeas.sh` and read the red/yellow lines first.
+- Full SUID / GTFOBins payloads: [suid-gtfobins.md](suid-gtfobins.md).
 - Check every `sudo -l` entry and SUID binary against **GTFOBins**.
 - Writable `/etc/passwd`, world-writable service scripts, and PATH hijacks are common.
 
