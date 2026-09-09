@@ -203,6 +203,6 @@ Both flags are read from the mounted host filesystem as root. Values kept local.
 
 ## 8. References
 
-- Docker group privesc (GTFOBins): https://gtfobins.github.io/gtfobins/docker/
+- Docker group privesc: `notes/cheatsheets/docker-group-privesc.md` (GTFOBins: https://gtfobins.github.io/gtfobins/docker/)
 - Hashcat example hashes (MD5 = mode 0): https://hashcat.net/wiki/doku.php?id=example_hashes
-- OWASP command injection: https://owasp.org/www-community/attacks/Command_Injection
+- Command injection: `notes/cheatsheets/command-injection.md` (OWASP: https://owasp.org/www-community/attacks/Command_Injection)

@@ -25,6 +25,11 @@ systeminfo
   AlwaysInstallElevated, and stored credentials.
 - `SeImpersonatePrivilege` -> Potato family (PrintSpoofer / GodPotato).
 
+### Group memberships worth checking
+
+- **docker** -> root. See [docker-group-privesc.md](docker-group-privesc.md).
+- **lxd/lxc**, **disk**, **adm**, **shadow** are similarly dangerous.
+
 ## References
 
 - GTFOBins: https://gtfobins.github.io/
