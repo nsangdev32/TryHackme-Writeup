@@ -8,10 +8,11 @@ flags, task answers, and what was learned.
 
 <!-- BEGIN ROOM TABLE -->
 
-**2 rooms** tracked - 2 complete, 0 in progress.
+**3 rooms** tracked - 3 complete, 0 in progress.
 
 | Room | Category | Difficulty | OS | Status | Completed |
 |---|---|---|---|---|---|
+| [Binex](writeups/linux/binex.md) | linux | Medium | Linux | done | 2026-09-13 |
 | [UltraTech](writeups/web/ultratech.md) | web | Medium | Linux | done | 2026-09-09 |
 | [Blue](writeups/windows/blue.md) | windows | Easy | Windows | done | 2026-09-09 |
 
